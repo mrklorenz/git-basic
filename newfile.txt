@@ -1,2 +1,8 @@
 What is the difference between add, commit, and push?
 
+ - Based on my own understanding, git add is the process of staging files that has recent changes or updates and 
+ also to track files that are newly added to our current working directory.
+ After staging the files using git add, the next step will be the git commit command where in 
+ we make the staged commits in our local repository ready for pushing to the remote repository, we also add commit message
+ in this process for proper tracking of changes. Then the next step will be git push, one of the most important steps of git, 
+ the process wherein all the comitted changes will now be sent and update our remote repository. 
