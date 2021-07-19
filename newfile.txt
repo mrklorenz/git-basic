@@ -6,3 +6,5 @@ What is the difference between add, commit, and push?
  we make the staged commits in our local repository ready for pushing to the remote repository, we also add commit message
  in this process for proper tracking of changes. Then the next step will be git push, one of the most important steps of git, 
  the process wherein all the comitted changes will now be sent and update our remote repository. 
+ 
+ //This comment was added to be pulled in local repository.
